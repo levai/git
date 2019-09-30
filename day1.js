@@ -1,3 +1,4 @@
 var day = {
-    name:'22'
+    name:'zlevai',
+    age:'22'
 }
